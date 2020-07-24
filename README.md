@@ -3,6 +3,8 @@
 I'm an avid fan of modding of older Grand Theft Auto series games (anything pre-GTA IV) for which I create tools and document things in my spare time.
 I love reverse engineering, binary file analysis and compilers. TypeScript is my favorite programming language. A novice Rustacean. He/him.
 
+[![x87's github stats](https://github-readme-stats.vercel.app/api?username=x87&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **x87/x87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Welcome :hi: I'm an avid fan of modding of older Grand Theft Auto series games (anything pre-GTA IV) for which I create tools and document things in my spare time.
